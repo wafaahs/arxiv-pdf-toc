@@ -1,0 +1,74 @@
+[
+  {
+    "section": "1 Introduction",
+    "page": 2
+  },
+  {
+    "section": "2 Tool-Augmented Reasoning Models as Agents",
+    "page": 3
+  },
+  {
+    "section": "2.1 Overview",
+    "page": 3
+  },
+  {
+    "section": "2.2 Code as Interaction Language",
+    "page": 4
+  },
+  {
+    "section": "2.3 Initial Reasoning Guidance",
+    "page": 4
+  },
+  {
+    "section": "2.4 Tools",
+    "page": 4
+  },
+  {
+    "section": "3 Scattered-and-Stacked Agentic Workflows for Inference-Time Computation",
+    "page": 5
+  },
+  {
+    "section": "3.1 Workflow Overview",
+    "page": 5
+  },
+  {
+    "section": "3.2 Scattering for Broad Exploration",
+    "page": 6
+  },
+  {
+    "section": "3.3 Stacking for Sequential Refinement",
+    "page": 6
+  },
+  {
+    "section": "3.4 Discussion: An Analogy to Rollouts in Reinforcement Learning",
+    "page": 6
+  },
+  {
+    "section": "4 Experiments",
+    "page": 6
+  },
+  {
+    "section": "4.1 Experimental Setups",
+    "page": 6
+  },
+  {
+    "section": "4.2 Main Results on Humanity\u2019s Last Exam",
+    "page": 7
+  },
+  {
+    "section": "4.3 Comparisons with Scientific Agents on Biology",
+    "page": 7
+  },
+  {
+    "section": "4.4 Analysis",
+    "page": 8
+  },
+  {
+    "section": "5 Related Works",
+    "page": 9
+  },
+  {
+    "section": "6 Conclusions and Future Works",
+    "page": 9
+  }
+]

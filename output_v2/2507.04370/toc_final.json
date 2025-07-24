@@ -1,0 +1,118 @@
+[
+  {
+    "section": "1 Introduction",
+    "page": 1
+  },
+  {
+    "section": "2 Related Works",
+    "page": 2
+  },
+  {
+    "section": "2.1 Self-Evolving Agents",
+    "page": 2
+  },
+  {
+    "section": "2.2 World Model",
+    "page": 3
+  },
+  {
+    "section": "3 Methodology",
+    "page": 3
+  },
+  {
+    "section": "3.1 Stage 1: UI Fundamental Understanding",
+    "page": 3
+  },
+  {
+    "section": "3.2\nStage 2: A World Model Guided Monte Carlo Tree Search",
+    "page": 4
+  },
+  {
+    "section": "3.3 Stage 3: Trajectory Collection",
+    "page": 6
+  },
+  {
+    "section": "3.4 Stage 4: Policy Agent Training",
+    "page": 7
+  },
+  {
+    "section": "4 Experiments",
+    "page": 7
+  },
+  {
+    "section": "4.1 Experimental Settings",
+    "page": 7
+  },
+  {
+    "section": "4.2 Main Results",
+    "page": 8
+  },
+  {
+    "section": "4.3 Analysis",
+    "page": 9
+  },
+  {
+    "section": "4.3.1 How TextUI Works?",
+    "page": 9
+  },
+  {
+    "section": "4.3.2 Ablation Studies of Fundamental Understanding",
+    "page": 9
+  },
+  {
+    "section": "4.3.3 Ablation Studies of Behaviors Cloning",
+    "page": 10
+  },
+  {
+    "section": "4.3.4 How Data Scaling Helps Agent Abilities?",
+    "page": 10
+  },
+  {
+    "section": "5 Conclusion",
+    "page": 10
+  },
+  {
+    "section": "B Prompt Template for Policy Agent, World Model and Reward Model",
+    "page": 15
+  },
+  {
+    "section": "Action Space",
+    "page": 15
+  },
+  {
+    "section": "Page Operation Actions",
+    "page": 15
+  },
+  {
+    "section": "URL Navigation Actions",
+    "page": 15
+  },
+  {
+    "section": "Completion Action",
+    "page": 15
+  },
+  {
+    "section": "Tips",
+    "page": 15
+  },
+  {
+    "section": "Action Rules",
+    "page": 15
+  },
+  {
+    "section": "Action Space",
+    "page": 16
+  },
+  {
+    "section": "Page Operation Actions:",
+    "page": 16
+  },
+  {
+    "section": "URL Navigation Actions:",
+    "page": 16
+  },
+  {
+    "section": "Completion Action:",
+    "page": 16
+  }
+]

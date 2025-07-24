@@ -1,0 +1,74 @@
+[
+  {
+    "section": "I. INTRODUCTION",
+    "page": 1
+  },
+  {
+    "section": "II. RELATED WORK",
+    "page": 2
+  },
+  {
+    "section": "A. Transformer-based Methods",
+    "page": 2
+  },
+  {
+    "section": "B. Mamba-based Methods",
+    "page": 2
+  },
+  {
+    "section": "C. Other Methods",
+    "page": 2
+  },
+  {
+    "section": "III. METHODOLOGY",
+    "page": 3
+  },
+  {
+    "section": "A. Problem Statement",
+    "page": 3
+  },
+  {
+    "section": "B. The Structure of DC-Mamber",
+    "page": 3
+  },
+  {
+    "section": "2) T-Encoder",
+    "page": 4
+  },
+  {
+    "section": "IV. EXPERIMENTAL RESULTS",
+    "page": 6
+  },
+  {
+    "section": "A. Datasets and Baselines",
+    "page": 6
+  },
+  {
+    "section": "B. Experimental Details",
+    "page": 6
+  },
+  {
+    "section": "C. Results and Analysis",
+    "page": 7
+  },
+  {
+    "section": "D. Ablation Study",
+    "page": 9
+  },
+  {
+    "section": "E. Parameter Sensitivity Analysis",
+    "page": 10
+  },
+  {
+    "section": "V. CONCLUSION",
+    "page": 11
+  },
+  {
+    "section": "REFERENCES",
+    "page": 11
+  },
+  {
+    "section": "A. Appendix",
+    "page": 12
+  }
+]

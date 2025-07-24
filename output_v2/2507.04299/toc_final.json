@@ -1,0 +1,46 @@
+[
+  {
+    "section": "1 Introduction",
+    "page": 1
+  },
+  {
+    "section": "2 Functional SM and ASPMT",
+    "page": 2
+  },
+  {
+    "section": "2.1 Review: Functional Stable Model Semantics",
+    "page": 2
+  },
+  {
+    "section": "2.2 Answer Set Programming Modulo Theories",
+    "page": 2
+  },
+  {
+    "section": "2.3 Review: Completion",
+    "page": 2
+  },
+  {
+    "section": "3 Reformulating C+ in ASPMT",
+    "page": 3
+  },
+  {
+    "section": "3.1 Syntax",
+    "page": 3
+  },
+  {
+    "section": "3.2 Semantics",
+    "page": 3
+  },
+  {
+    "section": "4 Reasoning about Continuous Changes in C+",
+    "page": 4
+  },
+  {
+    "section": "5 Reasoning about Additive Continuous Resources in C+",
+    "page": 5
+  },
+  {
+    "section": "6 Related Work and Conclusion",
+    "page": 6
+  }
+]

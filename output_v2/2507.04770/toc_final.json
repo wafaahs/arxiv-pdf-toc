@@ -1,0 +1,102 @@
+[
+  {
+    "section": "1. Introduction",
+    "page": 1
+  },
+  {
+    "section": "2. Related Works",
+    "page": 2
+  },
+  {
+    "section": "3. FurniMAS",
+    "page": 3
+  },
+  {
+    "section": "Surface Extraction.",
+    "page": 3
+  },
+  {
+    "section": "Asset Selection.",
+    "page": 3
+  },
+  {
+    "section": "Stylizing and Materializing.",
+    "page": 3
+  },
+  {
+    "section": "4. Experiments",
+    "page": 5
+  },
+  {
+    "section": "4.1. Language-Guided Furniture Decoration",
+    "page": 5
+  },
+  {
+    "section": "4.2. Open-Vocabulary Decorative Editing",
+    "page": 6
+  },
+  {
+    "section": "4.3. Agent Analysis",
+    "page": 6
+  },
+  {
+    "section": "4.4. Asset Arrangement Analysis",
+    "page": 7
+  },
+  {
+    "section": "4.5. Ablation Study",
+    "page": 7
+  },
+  {
+    "section": "5. Discussion",
+    "page": 8
+  },
+  {
+    "section": "6. Conclusion",
+    "page": 8
+  },
+  {
+    "section": "A. FurniMAS\u2019s Broader Application",
+    "page": 11
+  },
+  {
+    "section": "B. Bank of Styles and Materials",
+    "page": 11
+  },
+  {
+    "section": "C. Handling Rugged Surfaces",
+    "page": 11
+  },
+  {
+    "section": "D. Relative Placement Demonstrations",
+    "page": 11
+  },
+  {
+    "section": "E. Roles of non-LLM Validators",
+    "page": 11
+  },
+  {
+    "section": "F. Other LLMs for Evaluation",
+    "page": 12
+  },
+  {
+    "section": "G. Compatibility with 3D Generation Models",
+    "page": 12
+  },
+  {
+    "section": "H. Indoor Scene Creation",
+    "page": 12
+  },
+  {
+    "section": "I. Additional Qualitative Results",
+    "page": 12
+  },
+  {
+    "section": "J. System Prompts for LLM Agents",
+    "page": 12
+  },
+  {
+    "section": "K. GPT-4o Evaluation",
+    "page": 12
+  }
+]

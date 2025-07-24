@@ -1,0 +1,38 @@
+[
+  {
+    "section": "1 Introduction",
+    "page": 1
+  },
+  {
+    "section": "2 Related work",
+    "page": 2
+  },
+  {
+    "section": "3 MedGellan",
+    "page": 2
+  },
+  {
+    "section": "4 Experimental Work",
+    "page": 3
+  },
+  {
+    "section": "Dataset",
+    "page": 3
+  },
+  {
+    "section": "Models",
+    "page": 3
+  },
+  {
+    "section": "Prompt",
+    "page": 3
+  },
+  {
+    "section": "4.1 Results",
+    "page": 4
+  },
+  {
+    "section": "5 Conclusion and Future Work",
+    "page": 4
+  }
+]

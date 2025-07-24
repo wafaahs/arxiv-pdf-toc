@@ -1,0 +1,106 @@
+[
+  {
+    "section": "1 Introduction",
+    "page": 2
+  },
+  {
+    "section": "2 Related Work",
+    "page": 2
+  },
+  {
+    "section": "2.1 Visual Language Models and Document Understanding",
+    "page": 2
+  },
+  {
+    "section": "2.2 Video Understanding and Temporal Modeling",
+    "page": 3
+  },
+  {
+    "section": "2.3 Efficient Fine-tuning and Evaluation Methodologies",
+    "page": 3
+  },
+  {
+    "section": "3 Dataset Construction and Statistical Analysis",
+    "page": 4
+  },
+  {
+    "section": "3.1 Synthesis Framework Design",
+    "page": 4
+  },
+  {
+    "section": "3.2 Data Generation Pipeline",
+    "page": 4
+  },
+  {
+    "section": "3.3 Data Generation Pipeline",
+    "page": 7
+  },
+  {
+    "section": "4 VLM Fine-Tuning",
+    "page": 9
+  },
+  {
+    "section": "4.1 Model Selection",
+    "page": 9
+  },
+  {
+    "section": "4.2 LoRA",
+    "page": 9
+  },
+  {
+    "section": "4.2.1 Mathematical Formulation",
+    "page": 9
+  },
+  {
+    "section": "4.2.2 Implementation Details",
+    "page": 10
+  },
+  {
+    "section": "4.3 Fine-Tuning Pipeline",
+    "page": 10
+  },
+  {
+    "section": "5 Metric Design and Experiments",
+    "page": 11
+  },
+  {
+    "section": "5.1 Experimental Setup",
+    "page": 11
+  },
+  {
+    "section": "5.2 Metric Design",
+    "page": 11
+  },
+  {
+    "section": "5.3 Comparative Analysis",
+    "page": 12
+  },
+  {
+    "section": "5.4 Ablation Study",
+    "page": 14
+  },
+  {
+    "section": "5.5 Generalization Performance Analysis",
+    "page": 14
+  },
+  {
+    "section": "6 Conclusion and Future Work",
+    "page": 16
+  },
+  {
+    "section": "6.1 Conclusion",
+    "page": 16
+  },
+  {
+    "section": "6.2 Limitations & Future Work",
+    "page": 16
+  },
+  {
+    "section": "Author Contributions",
+    "page": 16
+  },
+  {
+    "section": "References",
+    "page": 16
+  }
+]

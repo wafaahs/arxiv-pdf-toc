@@ -1,0 +1,122 @@
+[
+  {
+    "section": "1 Introduction",
+    "page": 1
+  },
+  {
+    "section": "2 Related work",
+    "page": 2
+  },
+  {
+    "section": "2.1 Time Series Analysis",
+    "page": 2
+  },
+  {
+    "section": "2.2 Multi-scale Analysis in Time Series",
+    "page": 3
+  },
+  {
+    "section": "3 Methodology",
+    "page": 3
+  },
+  {
+    "section": "3.1 Problem Statement",
+    "page": 3
+  },
+  {
+    "section": "3.2 Motivation: Feature Redundancy in Multi-scale Time Series",
+    "page": 3
+  },
+  {
+    "section": "3.3 Overall Framework",
+    "page": 3
+  },
+  {
+    "section": "3.4 Multi-scale Generation Module",
+    "page": 4
+  },
+  {
+    "section": "3.5 Multi-scale Temporal Encoder",
+    "page": 4
+  },
+  {
+    "section": "3.5.1 Local Multi-channel Projection",
+    "page": 4
+  },
+  {
+    "section": "3.5.2 Global Temporal Aggregation",
+    "page": 4
+  },
+  {
+    "section": "3.6 Temporal Disentanglement Module",
+    "page": 5
+  },
+  {
+    "section": "3.7 Prediction and Optimization",
+    "page": 5
+  },
+  {
+    "section": "4 Experiments",
+    "page": 5
+  },
+  {
+    "section": "4.1 Experimental Setup",
+    "page": 5
+  },
+  {
+    "section": "4.1.1 Datasets",
+    "page": 5
+  },
+  {
+    "section": "4.1.2 Evaluation Metrics",
+    "page": 5
+  },
+  {
+    "section": "4.1.3 Baseline Methods",
+    "page": 6
+  },
+  {
+    "section": "4.1.4 Implementation Details",
+    "page": 6
+  },
+  {
+    "section": "4.2 Results and Analysis (RQ1)",
+    "page": 6
+  },
+  {
+    "section": "4.3 Ablation Study (RQ2)",
+    "page": 6
+  },
+  {
+    "section": "4.4 Hyperparameter Analysis (RQ3)",
+    "page": 6
+  },
+  {
+    "section": "4.4.1 The Number of Temporal Scales \ud835\udc46",
+    "page": 6
+  },
+  {
+    "section": "4.5 Analysis of F\ud835\udc60\u210e\ud835\udc4eand F\ud835\udc60\ud835\udc5d\ud835\udc52",
+    "page": 8
+  },
+  {
+    "section": "4.5.1 Correlation Analysis",
+    "page": 8
+  },
+  {
+    "section": "4.5.2 Visualization Analysis",
+    "page": 8
+  },
+  {
+    "section": "5 Conclusion",
+    "page": 8
+  },
+  {
+    "section": "6 Acknowledgements",
+    "page": 8
+  },
+  {
+    "section": "References",
+    "page": 9
+  }
+]

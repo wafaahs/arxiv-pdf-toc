@@ -1,0 +1,354 @@
+[
+  {
+    "section": "1. Introduction",
+    "page": 1
+  },
+  {
+    "section": "2. A conceptual framework for CoT monitorability",
+    "page": 3
+  },
+  {
+    "section": "2.1. Potential failure modes",
+    "page": 5
+  },
+  {
+    "section": "3. Revisiting unfaithfulness: when CoT is necessary, reasoning becomes monitorable",
+    "page": 6
+  },
+  {
+    "section": "3.1. Difficult hints force models to reveal their reasoning",
+    "page": 6
+  },
+  {
+    "section": "3.2. Models rely more on their CoT for more difficult tasks",
+    "page": 6
+  },
+  {
+    "section": "3.3. Takeaways",
+    "page": 9
+  },
+  {
+    "section": "4. Stress-testing methodology guidelines",
+    "page": 9
+  },
+  {
+    "section": "5. Can models obscure their reasoning about advanced scientific knowledge?",
+    "page": 10
+  },
+  {
+    "section": "5.1. GPQA dataset",
+    "page": 11
+  },
+  {
+    "section": "5.2. Monitoring for question topics",
+    "page": 11
+  },
+  {
+    "section": "5.3. Manual prompt stress testing",
+    "page": 12
+  },
+  {
+    "section": "5.4. Automated Red Teaming",
+    "page": 12
+  },
+  {
+    "section": "5.5. Results",
+    "page": 13
+  },
+  {
+    "section": "5.6. Conclusion",
+    "page": 14
+  },
+  {
+    "section": "6. Can models obscure their reasoning while pursuing a multi-step deceptive goal?",
+    "page": 17
+  },
+  {
+    "section": "6.1. Environment",
+    "page": 17
+  },
+  {
+    "section": "6.2. CoT monitor",
+    "page": 17
+  },
+  {
+    "section": "6.3. Attack strategies",
+    "page": 18
+  },
+  {
+    "section": "6.4. Results",
+    "page": 18
+  },
+  {
+    "section": "2.0 Flash Monitor",
+    "page": 19
+  },
+  {
+    "section": "2.5 Pro Monitor",
+    "page": 19
+  },
+  {
+    "section": "2.5 Flash actor",
+    "page": 19
+  },
+  {
+    "section": "2.5 Pro actor",
+    "page": 19
+  },
+  {
+    "section": "7. How much RL training is needed to conceal intermediate reasoning?",
+    "page": 20
+  },
+  {
+    "section": "7.1. The factorize_derivative environment",
+    "page": 22
+  },
+  {
+    "section": "7.2. Monitoring for intermediate values",
+    "page": 23
+  },
+  {
+    "section": "7.3. Red-teaming the monitor using RL",
+    "page": 23
+  },
+  {
+    "section": "7.4. Results",
+    "page": 23
+  },
+  {
+    "section": "7.4.1. Monitor evasion strategies learned during training",
+    "page": 23
+  },
+  {
+    "section": "7.5. Takeaways",
+    "page": 25
+  },
+  {
+    "section": "8. Related work",
+    "page": 26
+  },
+  {
+    "section": "8.1. CoT faithfulness",
+    "page": 26
+  },
+  {
+    "section": "8.2. Encoded and hidden reasoning",
+    "page": 26
+  },
+  {
+    "section": "8.3. Safety cases and stress-testing safety mitigations",
+    "page": 27
+  },
+  {
+    "section": "9. Discussion",
+    "page": 27
+  },
+  {
+    "section": "9.1. Limitations of our methodology and results",
+    "page": 27
+  },
+  {
+    "section": "9.2. What do our results mean for CoT monitorability?",
+    "page": 28
+  },
+  {
+    "section": "9.3. Looking forward",
+    "page": 28
+  },
+  {
+    "section": "Preserving CoT legibility.",
+    "page": 28
+  },
+  {
+    "section": "Author contributions",
+    "page": 29
+  },
+  {
+    "section": "Acknowledgements",
+    "page": 29
+  },
+  {
+    "section": "References",
+    "page": 29
+  },
+  {
+    "section": "A. Details on multi-step stealth environment experiments",
+    "page": 33
+  },
+  {
+    "section": "A.1. Experiment details",
+    "page": 33
+  },
+  {
+    "section": "A.2. Example of Gemini 2.5 Pro noticing the evaluation setup",
+    "page": 33
+  },
+  {
+    "section": "A.3. Monitor prompt",
+    "page": 34
+  },
+  {
+    "section": "A.4. Actor prompts",
+    "page": 35
+  },
+  {
+    "section": "A.4.1. General prompts",
+    "page": 35
+  },
+  {
+    "section": "A.4.2. Situational Awareness",
+    "page": 35
+  },
+  {
+    "section": "A.4.3. Subtlety",
+    "page": 35
+  },
+  {
+    "section": "A.4.5. Gaslighting",
+    "page": 37
+  },
+  {
+    "section": "A.4.6. Bug gaslighting",
+    "page": 37
+  },
+  {
+    "section": "A.4.7. Needle in a haystack",
+    "page": 37
+  },
+  {
+    "section": "A.4.8. Prompt injection",
+    "page": 38
+  },
+  {
+    "section": "A.4.9. Scratchpad",
+    "page": 38
+  },
+  {
+    "section": "A.5. Results with error bars",
+    "page": 39
+  },
+  {
+    "section": "A.6. Gemini 2.0 Flash results",
+    "page": 40
+  },
+  {
+    "section": "B. Details about the factorize_derivative environment",
+    "page": 41
+  },
+  {
+    "section": "B.1. Dataset",
+    "page": 41
+  },
+  {
+    "section": "B.2. Analysis",
+    "page": 42
+  },
+  {
+    "section": "B.2.1. Causal evidence that the position of errors in \ud835\udc43(\ud835\udc58) (\ud835\udc65) matters",
+    "page": 42
+  },
+  {
+    "section": "B.2.2. Further details on how we identified strategies learned during RL fine-tuning",
+    "page": 42
+  },
+  {
+    "section": "B.3. Prompt templates",
+    "page": 42
+  },
+  {
+    "section": "B.4. Sample transcripts",
+    "page": 45
+  },
+  {
+    "section": "C. Details about the GPQA environment",
+    "page": 49
+  },
+  {
+    "section": "C.1. Dataset",
+    "page": 49
+  },
+  {
+    "section": "C.2. Alternate monitoring prompts alter evasion outcomes",
+    "page": 49
+  },
+  {
+    "section": "C.3. Disabling the native thoughts of the Gemini 2.5 Pro actor",
+    "page": 55
+  },
+  {
+    "section": "C.4. More details on Automated Red Teaming",
+    "page": 55
+  },
+  {
+    "section": "C.5. Sample transcripts: ART Iteration 9",
+    "page": 56
+  },
+  {
+    "section": "C.5.1. Actor input (question and encoding instruction)",
+    "page": 57
+  },
+  {
+    "section": "Phase Delta: Normalized Component Frequencies",
+    "page": 59
+  },
+  {
+    "section": "Phase Epsilon: Root Frequency Derivation",
+    "page": 59
+  },
+  {
+    "section": "C.5.3. Monitor output (unsuccessful evasion)",
+    "page": 60
+  },
+  {
+    "section": "C.5.4. Actor model answer (successful evasion)",
+    "page": 60
+  },
+  {
+    "section": "C.5.5. Monitor output (successful evasion)",
+    "page": 62
+  },
+  {
+    "section": "C.6. Sample transcripts: ART Iteration 4",
+    "page": 62
+  },
+  {
+    "section": "C.6.1. Actor input (question and encoding instruction)",
+    "page": 62
+  },
+  {
+    "section": "C.6.2. Actor model answer (unsuccessful evasion)",
+    "page": 63
+  },
+  {
+    "section": "C.6.3. Monitor output (unsuccessful evasion)",
+    "page": 64
+  },
+  {
+    "section": "C.6.4. Actor model answer (successful evasion)",
+    "page": 65
+  },
+  {
+    "section": "C.6.5. Monitor output (successful evasion)",
+    "page": 65
+  },
+  {
+    "section": "C.7. Sample transcripts: ART Iteration 26",
+    "page": 66
+  },
+  {
+    "section": "C.7.1. Actor input (question and encoding instruction)",
+    "page": 66
+  },
+  {
+    "section": "C.7.2. Actor model answer (unsuccessful evasion)",
+    "page": 68
+  },
+  {
+    "section": "C.7.3. Monitor output (unsuccessful evasion)",
+    "page": 68
+  },
+  {
+    "section": "C.7.5. Monitor output (successful evasion)",
+    "page": 70
+  }
+]
